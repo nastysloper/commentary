@@ -2,7 +2,7 @@
 
 Add comments to your blog.
 
-# Forked from sdqali/commentary
+Forked from sdqali/commentary
 
 ## Setup
 * Edit `config/production.yml` to add your site. Specify a name and the domain where the site will be hosted. Example configuration will be like this:
