@@ -9,7 +9,7 @@ Forked from sdqali/commentary
 
 ```
 name: Blog
-domain: localhost:44567
+domain: localhost:4567
 ```
 or
 domain: superhero.in
