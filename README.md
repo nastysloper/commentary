@@ -9,11 +9,15 @@ Forked from sdqali/commentary
 
 ```
 name: Blog
-domain: blog.sdqali.in
+domain: localhost:44567
 ```
+or
+domain: superhero.in
 
-* Run `RACK_ENV=production setup.rb`
-* Start the server with `RACK_ENV=production app.rb`
+* Set the RACK_ENV variable to the environment of your choice: development, test, or production
+
+* Run `RACK_ENV=production ruby setup.rb`
+* Start the server with `RACK_ENV=production ruby app.rb`
 * Add the following to your HTML pages or templates. `selector` is the CSS selector for the DOM element where comments will be rendered.
 
 ```html
